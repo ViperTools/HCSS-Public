@@ -10,7 +10,7 @@
 - [x] CSS Parser
 - [x] CSS Transpiler
 - [x] Nesting
-- [ ] Variables
+- [x] Variables
 - [ ] Events
 - [ ] Themes
 - [ ] Custom Media Queries
