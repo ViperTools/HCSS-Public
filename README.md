@@ -11,8 +11,6 @@
 - [x] CSS Transpiler
 - [x] Nesting
 - [x] Variables
-- [ ] Events
-- [ ] Toggle Operator
 - [ ] Themes
 - [ ] Custom Media Queries
 - [ ] JavaScript Embedding
