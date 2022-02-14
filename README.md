@@ -11,6 +11,6 @@
 - [x] CSS Transpiler
 - [x] Nesting
 - [x] Variables
+- [x] Custom Media Queries
 - [ ] Themes
-- [ ] Custom Media Queries
 - [ ] JavaScript Embedding
