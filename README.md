@@ -13,4 +13,4 @@
 - [x] Variables
 - [x] Custom Media Queries
 - [ ] Themes
-- [ ] JavaScript Embedding
+- [ ] JavaScript Events
