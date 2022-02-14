@@ -12,5 +12,6 @@
 - [x] Nesting
 - [x] Variables
 - [x] Custom Media Queries
-- [ ] Themes
+- [x] Mixins
 - [ ] JavaScript Events
+> These being checked off means they are in a working state, not that they are production ready. Currently I am unhappy with how many things are implemented.
